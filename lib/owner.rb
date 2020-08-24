@@ -8,6 +8,7 @@ class Owner
   end
   
   def say_species
-    puts https://www.youtube.com/watch?v=o-Y6mbMT-JY
+    puts "I am a human."
+  end
   
 end
