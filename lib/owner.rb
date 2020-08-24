@@ -39,4 +39,9 @@ class Owner
     end
   end
   
+  def buy_cat(cat)
+    
+  end
+    
+  
 end
