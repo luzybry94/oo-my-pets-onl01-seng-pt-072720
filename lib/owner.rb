@@ -30,5 +30,6 @@ class Owner
     Cats.all.collect do |cat|
       cat.owner == self
     end
+  end
   
 end
